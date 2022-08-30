@@ -8,7 +8,7 @@ This script allows to detect 3D particles inside a cell selected by the user and
 
 ## Requirements
 
-The script is made in Python and requires [Fiji](http://fiji.sc/) to be ran. On top of this, multiple update sites need to be activated following [this guide](https://imagej.net/update-sites/#following-an-update-site): 
+The script is made in Python and requires [Fiji](https://doi.org/10.1038/nmeth.2019) to be ran. On top of this, multiple update sites need to be activated following [this guide](https://imagej.net/update-sites/#following-an-update-site): 
 * 3DImageSuite
 * MorpholibJ
 
